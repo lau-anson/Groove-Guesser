@@ -1,4 +1,5 @@
 This project was created for CSC207 at the University of Toronto
+
 Group Members: Anson, Flora, Ian, Ricky
 
 Note: To run the program, you must add the jarfiles in the jar_files folder as dependencies. They are part of an old swing feature that implemented autocomplete. It has since been removed in Java 8. Additionally, the files can be found [here](https://jar-download.com/artifacts/org.swinglabs.swingx/swingx-autocomplete/1.6.5-1/source-code/org/jdesktop/swingx/autocomplete/AutoCompleteDecorator.java).
